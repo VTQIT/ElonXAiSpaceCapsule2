@@ -1,0 +1,83 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1588px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 213%;
+  left: -56%;
+  height: 100%;
+  top: 0%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 300%;
+    left: -100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 392%;
+    left: -146%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 523%;
+    left: -211%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 830%;
+    left: -365%;
+  }
+} .u-section-2 {
+  background-position: 49.75% 0%;
+  background-repeat: no-repeat;
+  background-image: url("images/Untitled-1-Recovered-Recovered.jpg");
+  background-size: auto 225%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1089px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 622px;
+  height: 1004px;
+  margin: 43px 221px 43px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-1 {
+    margin-right: 98px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 957px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 872px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 634px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 549px;
+  }
+}
